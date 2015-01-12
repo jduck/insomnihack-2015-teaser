@@ -1,0 +1,2 @@
+http://www.well-typed.com/blog/95/
+https://ghc.haskell.org/trac/ghc/wiki/Debugging/CompiledCode

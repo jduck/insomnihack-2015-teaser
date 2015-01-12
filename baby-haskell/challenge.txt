@@ -1,0 +1,4 @@
+Baby Haskell - Reverse - 100 pts - realised by agix
+Can you crack it as faster as John Connor ?
+
+https://dl0kbifbyxlj5.cloudfront.net/tasks/baby_haskell_f87b6ffca5f977d2ac493ecb12636cba
